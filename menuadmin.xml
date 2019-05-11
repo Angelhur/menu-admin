@@ -8,6 +8,7 @@
 	<item type="sendChat" label="Event 2v2" command=".a Bonsoir ! Un event 2v2 va avoir lieu dans 30 minutes, si vous voulez participer il suffit de me mp vos classes ! /w %p Les classes ne pouvant être ensemble : Sacrieur, Eniripsa, Osamodas, Ouginak, Zobal, Feca. Les inscriptions seront finies dans 25 minutes!"/>
 	<item type="sendChat" label="Event 3v3" command=".a Bonsoir ! Un event 3v3 va avoir lieu dans 35 minutes, si vous voulez participer il suffit de me mp vos classes ! /w %p Les classes ne pouvant être ensemble : Sacrieur, Eniripsa, Osamodas, Ouginak, Zobal, Feca. Les inscriptions seront finies dans 30 minutes!"/>
 	<item type="sendChat" label="Event Carnage" command=".a Bonsoir ! Un event Carnage va avoir lieu, si vous voulez participer il suffit de me mp ! /w %p"/>
+	<item type="sendChat" label="God of War" command=".a Bonsoir ! Un event GOD OF WAR va avoir lieu, si vous voulez participer il suffit de me mp ! /w %p"/>		
 	</item>
 	<!-- Exemple de cliquez ici. (remplacer le lien)
 	//cliquez &lt;a href='https://forms.gle/sYdnNq4YMqnvYXVNA'&gt;&lt;b&gt;&lt;u&gt;ici&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;
